@@ -16,7 +16,7 @@
 }
 
 html, body {
-    min-width: 98vh;
+    min-width: auto;
     background-color: darkgray;
     font-family: var(--fonte1);
 }
